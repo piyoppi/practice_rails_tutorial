@@ -8,5 +8,8 @@
     - 5.1.2.rc1 (June 20, 2017)
     - ref: https://rubygems.org/gems/rails/versions
 - Ruby on Railsはこれまでに何回ダウンロードされたでしょうか？調べてみてください。
-    - 
+    - https://github.com/rails/rails によると
+        - watch: 2414
+        - Star : 36023
+        - Fork : 14687
 
