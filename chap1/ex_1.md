@@ -12,4 +12,7 @@
         - watch: 2414
         - Star : 36023
         - Fork : 14687
+    - トータルダウンロード数
+        - 99,197,511 
+        - ref: http://bestgems.org/gems/rails
 
